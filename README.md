@@ -1,6 +1,6 @@
-# ED
-Estrutura de Dados
-### Resumo do Projeto
+# Estrutura de Dados
+
+### Resumo do Projeto feito no final da cadeira
 
 Este projeto implementa um sistema de gerenciamento de alunos, permitindo operações básicas como inclusão, remoção e listagem de alunos, além de funcionalidades para buscar e ordenar os registros. A estrutura de dados utilizada é uma `struct` que armazena a matrícula, nome e média final de cada aluno. 
 
